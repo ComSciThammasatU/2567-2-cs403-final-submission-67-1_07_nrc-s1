@@ -1,0 +1,10 @@
+การพัฒนาเว็บแอปพลิเคชั่นในร้านขายยาเภสัช
+develop the web application in the pharmacy
+
+				Abstract
+
+
+This project aims to develop a web application for pharmacies to address the issues of low stock alerts and expiration date notifications. The system will help pharmacies manage inventory efficiently, reduce losses caused by expired products, and enhance customer satisfaction by ensuring that medications provided are safe and of high quality.
+The system will include key features such as alerts when products reach a low stock threshold and notifications for medications that are nearing expiration. This enables pharmacies to take immediate action and prevent losses caused by selling expired products.
+Developing this web application is crucial for improving pharmacy operations, minimizing the risk of using expired medications, and assuring customers that the medications they receive are safe and reliable. The goal of this project is to create a functional system that provides practical benefits to the daily operations of pharmacies.
+Keywords: Low Stock Alerts, Medication Expiration Notifications
